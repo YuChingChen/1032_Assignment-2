@@ -3,6 +3,6 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     Title="自製踩地雷" MinHeight="415" MinWidth="350" Height="415" Width="350" PreviewMouseDown="Window_PreviewMouseDown">
     <DockPanel>
-        <UniformGrid Name="ugdBoard" Background="AliceBlue" />
+        <UniformGrid Name="ugdBoard" Background="AliceBlue"  />
     </DockPanel>
 </Window>
